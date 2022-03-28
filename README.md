@@ -6,7 +6,7 @@ Provides a paginator abstraction for the daily, popular, newest, tags, topics li
 topics endpoints.  The returned JSON is parsed in to a Dart class representing the response.
 
 - Generic iterator and paginator interface
-- Dart objects that represent the JSON data with corresponding fromJson() methods;
+- Dart objects that represent the JSON data with corresponding fromJson() methods
   * Suggested
   * More Like This
   * Tagged
